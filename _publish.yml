@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 360a97de-27c4-4a70-8cff-60fcede83a0e
+      url: 'https://jazzy-monstera-c23bcc.netlify.app'
