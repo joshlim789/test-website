@@ -1,9 +1,23 @@
 ---
-title: "Joshua Lim"
+toc: false
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      url: https://www.linkedin.com/in/joshua-lim-47619a229/
+    - icon: twitter
+      text: Twitter
+      url: https://twitter.com/JoshLim789
+    - icon: github
+      text: Github
+      url: https://github.com/joshlim789
+    - icon: instagram
+      text: Instagram
+      url: https://www.instagram.com/jgl789/
+    - icon: Gym
+      text: Athlete Page
+      url: https://uclaclubsports.com/sports/gymnastics/roster/joshua-lim/14062
+image: josh.jpg
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
 
